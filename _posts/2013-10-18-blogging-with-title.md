@@ -1,8 +1,7 @@
 ---
 layout: post
-title: >
-    Blogging with title 
-tags: [Test, Ipsum, Markdown, Portfolio]
+title: It's just another benchmark site 
+
 ---
 
 # I am a BIG title
